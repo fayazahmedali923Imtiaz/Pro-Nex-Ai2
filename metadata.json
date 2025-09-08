@@ -1,0 +1,7 @@
+{
+  "name": "Pro Nex Ai ",
+  "description": "An AI chatbot that can generate text, images, and videos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
